@@ -1,1 +1,659 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 375 148"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="ProjectLog-svgupdates.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="375"
+   height="148"
+   inkscape:export-filename="Projectlog "
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57">
+    <linearGradient
+       id="linearGradient14"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#dd55ff;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+      <stop
+         style="stop-color:#dd55ff;stop-opacity:0;"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient15"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient16"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient17"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient18"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient8"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient11"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient12"
+       gradientUnits="userSpaceOnUse"
+       x1="-30"
+       y1="-25"
+       x2="0"
+       y2="-25" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8314066"
+     inkscape:cx="139.23724"
+     inkscape:cy="63.612308"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57" />
+  <!-- Main background -->
+  <rect
+     width="211.58298"
+     height="55.59845"
+     fill="#ffffff"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:0.156549" />
+  <!-- AISR Logo (top half) -->
+  <g
+     transform="matrix(1.5,0,0.04459757,1.5,181.76366,80.095054)"
+     id="g13">
+    <!-- Gear -->
+    <!-- Gear teeth -->
+    <!-- HPCFluid Text -->
+    <text
+       x="-59.948959"
+       y="-10.128702"
+       font-family="Arial, sans-serif"
+       font-weight="bold"
+       font-size="32px"
+       fill="#dc143c"
+       id="text2"
+       style="fill:#8086ff;fill-opacity:1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';fill:#4d4d4d"
+         id="tspan1">HPCFluid</tspan></text>
+    <!-- Left Laurel Leaf -->
+    <!-- Right Laurel Leaf -->
+    <g
+       transform="matrix(-0.98480775,-0.17364818,-0.17364818,0.98480775,74.174763,5.3333332)"
+       id="g12"
+       style="fill:url(#linearGradient15)">
+      <path
+         d="M 0,0 C -10,-20 -15,-40 -10,-50 -5,-40 0,-20 0,0"
+         fill="#008080"
+         id="path8"
+         style="fill:url(#linearGradient7)" />
+      <path
+         d="m 0,0 c -12,-18 -18,-38 -15,-48 7,10 12,30 15,48"
+         fill="#008080"
+         id="path9"
+         style="fill:url(#linearGradient13)" />
+      <path
+         d="m 0,0 c -14,-16 -22,-36 -20,-46 8,10 14,30 20,46"
+         fill="#008080"
+         id="path10"
+         style="fill:url(#linearGradient16)" />
+      <path
+         d="m 0,0 c -16,-14 -26,-34 -25,-44 9,10 16,30 25,44"
+         fill="#008080"
+         id="path11"
+         style="fill:url(#linearGradient17)" />
+      <path
+         d="m 0,0 c -18,-12 -30,-30 -30,-40 10,10 18,28 30,40"
+         fill="#008080"
+         id="path12"
+         style="fill:url(#linearGradient18)" />
+    </g>
+    <g
+       transform="matrix(0.99513347,-0.17364818,0.11508814,0.98480775,-62.343874,5.3623329)"
+       id="g12-0"
+       style="fill:url(#linearGradient12)">
+      <path
+         d="M 0,0 C -10,-20 -15,-40 -10,-50 -5,-40 0,-20 0,0"
+         fill="#008080"
+         id="path8-0"
+         style="fill:url(#linearGradient6)" />
+      <path
+         d="m 0,0 c -12,-18 -18,-38 -15,-48 7,10 12,30 15,48"
+         fill="#008080"
+         id="path9-2"
+         style="fill:url(#linearGradient8)" />
+      <path
+         d="m 0,0 c -14,-16 -22,-36 -20,-46 8,10 14,30 20,46"
+         fill="#008080"
+         id="path10-7"
+         style="fill:url(#linearGradient9)" />
+      <path
+         d="m 0,0 c -16,-14 -26,-34 -25,-44 9,10 16,30 25,44"
+         fill="#008080"
+         id="path11-6"
+         style="fill:url(#linearGradient10)" />
+      <path
+         d="m 0,0 c -18,-12 -30,-30 -30,-40 10,10 18,28 30,40"
+         fill="#008080"
+         id="path12-2"
+         style="fill:url(#linearGradient11)" />
+    </g>
+  </g>
+  <!-- Fluid Flow Patterns (closer to top) -->
+  <g
+     transform="translate(7.6821756,102.86259)"
+     id="g24"
+     style="stroke-width:2.7;stroke-dasharray:none">
+    <!-- Re = 1 -->
+    <g
+       transform="scale(0.4)"
+       id="g23"
+       style="stroke-width:6.75;stroke-dasharray:none">
+      <!-- Flow lines -->
+      <path
+         d="m 0,0 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path13"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,10 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path14"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,20 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path15"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,30 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path16"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,40 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path17"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,50 Q 50,0 100,0 150,0 200,50"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path18"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,60 Q 50,10 100,10 150,10 200,60"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path19"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,70 Q 50,20 100,20 150,20 200,70"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path20"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,80 Q 50,30 100,30 150,30 200,80"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path21"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,90 Q 50,40 100,40 150,40 200,90"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path22"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,100 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path23"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <!-- Base line -->
+      <!-- Label -->
+    </g>
+  </g>
+  <g
+     transform="translate(292.3977,106.08714)"
+     id="g35"
+     style="stroke-width:2.7;stroke-dasharray:none">
+    <!-- Re = 100 -->
+    <g
+       transform="scale(0.4)"
+       id="g34"
+       style="stroke-width:6.75;stroke-dasharray:none">
+      <!-- Flow lines with spiral pattern -->
+      <path
+         d="m 0,0 q 50,-50 100,-45 30,5 40,25 10,20 0,40 -10,20 -40,25 30,5 100,-45"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path24"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,10 q 50,-50 95,-45 25,5 35,20 10,15 0,30 -10,15 -35,20 25,5 105,-25"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path25"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,20 q 50,-50 90,-45 20,5 30,15 5,10 0,20 -10,10 -30,15 20,5 110,-5"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path26"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,30 q 50,-50 85,-45 15,5 25,10 5,5 0,10 -10,5 -25,10 15,5 115,15"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path27"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,40 q 50,-50 80,-45 10,5 0,10 0,5 120,35"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path28"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,50 Q 50,0 75,0 75,5 200,50"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path29"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,60 Q 50,10 100,10 150,10 200,60"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path30"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,70 Q 50,20 100,20 150,20 200,70"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path31"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,80 Q 50,30 100,30 150,30 200,80"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path32"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,90 Q 50,40 100,40 150,40 200,90"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path33"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,100 q 50,-50 100,-50 50,0 100,50"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path34"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <!-- Base line -->
+      <!-- Label -->
+    </g>
+  </g>
+  <g
+     transform="translate(104.5943,106.75814)"
+     id="g46"
+     style="stroke-width:2.7;stroke-dasharray:none">
+    <!-- Re = 500 -->
+    <g
+       transform="scale(0.4)"
+       id="g45"
+       style="stroke-width:6.75;stroke-dasharray:none">
+      <!-- Flow lines with more complex spiral pattern -->
+      <path
+         d="m 0,0 q 50,-50 95,-45 25,15 30,30 5,10 0,15 -5,5 -10,0 -5,-5 -10,0 -5,5 -10,0 -5,-5 0,-10 15,5 35,10 20,10 70,0"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path35"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,10 q 50,-50 90,-45 20,10 25,25 5,10 0,15 -5,5 -10,0 -5,-5 -10,0 -5,5 -10,0 -5,-5 0,-10 15,5 35,10 20,10 80,5"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path36"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,20 q 50,-50 85,-45 15,5 20,20 5,10 -5,15 -5,5 -10,0 -5,-5 0,-10 5,-5 10,0 5,5 10,10 25,10 90,10"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path37"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,30 q 50,-50 80,-45 10,5 15,15 5,10 -5,15 -10,5 -5,0 5,-5 10,0 35,10 105,15"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path38"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,40 q 50,-50 70,-45 10,5 15,15 5,10 -5,15 5,-5 10,0 35,5 110,15"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path39"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,50 Q 50,0 65,5 q 5,5 10,15 5,10 0,15 45,0 125,15"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path40"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,60 Q 50,10 100,15 150,20 200,60"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path41"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,70 Q 50,20 100,25 150,30 200,70"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path42"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,80 Q 50,30 100,35 150,40 200,80"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path43"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,90 Q 50,40 100,45 150,50 200,90"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path44"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,100 q 50,-50 100,-45 50,5 100,45"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path45"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <!-- Base line -->
+      <!-- Label -->
+    </g>
+  </g>
+  <g
+     transform="translate(198.8853,111.19524)"
+     id="g57"
+     style="stroke-width:2.7;stroke-dasharray:none">
+    <!-- Re = 1000 -->
+    <g
+       transform="matrix(0.4,0,0,0.4,0,-3.8610039)"
+       id="g56"
+       style="stroke-width:6.75;stroke-dasharray:none">
+      <!-- Flow lines with vortex pattern -->
+      <path
+         d="m 0,0 q 50,-50 90,-40 20,20 15,30 -5,10 -10,0 -5,-10 -10,0 -5,10 -10,0 -5,-10 5,-20 15,5 30,15 10,15 5,30 -5,15 15,5 20,-10 70,-20"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path46"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,10 q 50,-50 85,-40 15,15 10,25 -5,10 -10,0 -5,-10 -10,0 -5,10 -10,0 -5,-10 5,-20 15,5 30,15 10,15 5,30 -5,15 15,5 20,-10 80,-15"
+         fill="none"
+         stroke="#0000ff"
+         stroke-width="1"
+         opacity="0.5"
+         id="path47"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,20 q 50,-50 80,-40 10,10 5,20 -5,10 -10,0 -5,-10 -10,0 -5,10 -10,0 -5,-10 5,-20 15,5 30,15 10,15 5,30 -5,15 20,5 20,-10 85,-10"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path48"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="m 0,30 q 50,-50 75,-40 5,5 0,15 -5,10 -10,0 -5,-10 -10,0 -5,10 -10,0 -5,-10 5,-20 15,5 30,15 10,15 5,30 -5,15 25,5 20,-10 90,-5"
+         fill="none"
+         stroke="#800080"
+         stroke-width="1"
+         opacity="0.5"
+         id="path49"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,40 Q 50,-10 70,0 75,10 70,20 65,30 60,20 55,10 50,20 45,30 40,20 35,10 45,0 q 15,-5 30,5 10,15 5,30 -5,15 25,5 20,-10 95,0"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path50"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,50 Q 50,0 65,10 70,20 65,30 60,40 55,30 50,20 45,30 40,40 35,30 30,20 40,10 55,0 70,10 q 10,15 5,30 25,5 125,10"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="1"
+         opacity="0.5"
+         id="path51"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,60 Q 50,10 100,20 150,30 200,60"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path52"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,70 Q 50,20 100,30 150,40 200,70"
+         fill="none"
+         stroke="#ffa500"
+         stroke-width="1"
+         opacity="0.5"
+         id="path53"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,80 Q 50,30 100,40 150,50 200,80"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path54"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,90 Q 50,40 100,50 150,60 200,90"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path55"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <path
+         d="M 0,100 Q 50,50 100,60 150,70 200,100"
+         fill="none"
+         stroke="#ffff00"
+         stroke-width="1"
+         opacity="0.5"
+         id="path56"
+         style="stroke-width:6.75;stroke-dasharray:none" />
+      <!-- Base line -->
+      <!-- Label -->
+    </g>
+  </g>
+  <!-- Title -->
+</svg>
